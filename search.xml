@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[SpringCloud]]></title>
+    <url>%2F2019%2F03%2F23%2Ftest-my-site%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>SpringCloud</category>
+      </categories>
+      <tags>
+        <tag>NACOS</tag>
+        <tag>ZUUL</tag>
+        <tag>EURKA</tag>
+      </tags>
+  </entry>
+</search>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>codingma</title>
+  
+  <subtitle>个人博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-03-23T12:35:11.765Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>coding ma</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SpringCloud</title>
+    <link href="http://yoursite.com/2019/03/23/test-my-site/"/>
+    <id>http://yoursite.com/2019/03/23/test-my-site/</id>
+    <published>2019-03-23T12:35:08.000Z</published>
+    <updated>2019-03-23T12:35:11.765Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="SpringCloud" scheme="http://yoursite.com/categories/SpringCloud/"/>
+    
+    
+      <category term="NACOS" scheme="http://yoursite.com/tags/NACOS/"/>
+    
+      <category term="ZUUL" scheme="http://yoursite.com/tags/ZUUL/"/>
+    
+      <category term="EURKA" scheme="http://yoursite.com/tags/EURKA/"/>
+    
+  </entry>
+  
+</feed>
