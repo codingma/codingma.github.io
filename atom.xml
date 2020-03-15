@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-15T12:30:03.819Z</updated>
+  <updated>2020-03-15T12:45:43.406Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/archives/303649107.html"/>
     <id>http://yoursite.com/archives/303649107.html</id>
     <published>2020-03-15T12:28:00.000Z</published>
-    <updated>2020-03-15T12:30:03.819Z</updated>
+    <updated>2020-03-15T12:45:43.406Z</updated>
     
     <content type="html"><![CDATA[<p>2020年3月15日，<br>    等工作稳定下来之后，开始做这块内容的深度学习！</p>]]></content>
     
@@ -35,6 +35,8 @@
     
     </summary>
     
+      <category term="skyWalking" scheme="http://yoursite.com/categories/skyWalking/"/>
+    
     
       <category term="skywalking" scheme="http://yoursite.com/tags/skywalking/"/>
     
@@ -45,7 +47,7 @@
     <link href="http://yoursite.com/archives/2527336709.html"/>
     <id>http://yoursite.com/archives/2527336709.html</id>
     <published>2019-03-23T12:35:00.000Z</published>
-    <updated>2020-03-14T16:33:38.822Z</updated>
+    <updated>2020-03-15T12:18:05.715Z</updated>
     
     <content type="html"><![CDATA[<p>2020年3月14日<br>   经历了一轮有一轮的面试，感觉自己总结和积累的不够深度，还是有许多事情需要做的，加油！<br>   2020年3月15日00:33:21深夜。</p>]]></content>
     
