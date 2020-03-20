@@ -10,6 +10,7 @@
 </li>
 <li><p>下载地址2：5.1源码</p>
 <p>​    构建之前请阅读：spring提供了eclipse和idea两种IDE的方式，本文使用idea</p>
+<a id="more"></a>
 </li>
 <li><p>编译过程报错解决办法:</p>
 <p>代理有问题timeout ：调整url：build.grades.不然不能编译</p>
