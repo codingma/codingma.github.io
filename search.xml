@@ -42,7 +42,7 @@
 <p>13.unload  aspect。</p>
 <p>14.确保都编译完毕 创建model：然后先编译model试试会不会报错，如果ok继续走下去。</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">compile project(&apos;:spring-context&apos;)</span><br><span class="line">compile project(&apos;:spring-oxm&apos;)</span><br><span class="line">compile project(&apos;:spring-core&apos;)</span><br><span class="line">compile project(&apos;:spring-beans&apos;)</span><br><span class="line">compile project(&apos;:spring-expression&apos;)</span><br></pre></td></tr></table></figure>
-<p>调试代码。</p>
+<p>调试代码。<br>参考： <a href="https://github.com/codingma/springframework5.1-compiler.git" target="_blank" rel="noopener">https://github.com/codingma/springframework5.1-compiler.git</a></p>
 ]]></content>
       <categories>
         <category>springframework</category>
